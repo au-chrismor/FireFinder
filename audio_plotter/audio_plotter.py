@@ -8,7 +8,7 @@ import matplotlib.pyplot as ply
 
 audio_file = 'purenvwh.wav'
 # audio_file = '20210109_232215.wav'
-dataset_path = 'E:\\Data\\audio\Lightning-Detection\\whistles'
+dataset_path = '/data/audio/Lightning-Detection/whistles'
 
 wave_data = os.path.join(dataset_path, audio_file)
 
